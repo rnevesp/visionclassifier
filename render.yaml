@@ -3,7 +3,7 @@
 # The app is fully static; no environment variables are needed.
 services:
   - type: web
-    name: teachable-machine-playground
+    name: vision-classifier
     runtime: static
     buildCommand: npm ci && npm run build
     staticPublishPath: dist
