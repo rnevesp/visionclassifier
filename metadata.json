@@ -1,0 +1,6 @@
+{
+  "name": "Vision Classifier",
+  "description": "An image classification app using a Teachable Machine model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
