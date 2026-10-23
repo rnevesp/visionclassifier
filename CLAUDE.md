@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-"Teachable Machine Playground": a static web app that loads any Teachable Machine image model by URL (or a bundled chest X-ray preset) and classifies uploaded images, pasted images or live webcam frames in the browser with TensorFlow.js. There is no backend and no API key. The project started as a Google AI Studio export called "Vision Classifier"; the folder keeps that name.
+"Vision Classifier Playground": a static web app that loads any Teachable Machine image model by URL (or a bundled chest X-ray preset) and classifies uploaded images, pasted images or live webcam frames in the browser with TensorFlow.js. There is no backend and no API key. The project started as a Google AI Studio export called "Vision Classifier"; the folder keeps that name.
 
 ## Commands
 

@@ -1,4 +1,4 @@
-# Teachable Machine Playground
+# Vision Classifier Playground
 
 Load any [Teachable Machine](https://teachablemachine.withgoogle.com/) image model by URL and try it on your own pictures or a live camera feed. Everything runs in the browser with TensorFlow.js; no image ever leaves the page.
 

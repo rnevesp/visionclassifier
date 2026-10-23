@@ -45,7 +45,7 @@ export default function App() {
     <div className="min-h-screen bg-surface text-gray-900">
       <main className="mx-auto w-full max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
         <header className="mb-10 text-center">
-          <h1 className="mb-3 text-4xl font-light tracking-tight">Teachable Machine Playground</h1>
+          <h1 className="mb-3 text-4xl font-light tracking-tight">Vision Classifier Playground</h1>
           <p className="mx-auto max-w-xl text-gray-500">
             Load any Teachable Machine image model and try it on your own pictures or a live camera feed. Everything
             runs in your browser.
